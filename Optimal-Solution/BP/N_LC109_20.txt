@@ -1,0 +1,16 @@
+Instance Name: N_LC109.csv
+Instance Size: 20
+0(0283.1942) 8 18 21 
+0(0000.2922) 3 13 6 16 5 2 15 12 1 11 21 
+0(0174.2303) 4 9 10 7 19 20 17 14 21 
+SOL CHECK          = true
+SOL COST           = 1230.13
+BP  Time           = 0000.04 sec.
+SOL NODES          = 1
+SOL ROUTES         = 3
+ROOT LB            = 1230.1309
+FUEL COST          = 0292.3254
+REFRIGERATION COST = 0680.1300
+DECAY COST         = 0257.6755
+
+

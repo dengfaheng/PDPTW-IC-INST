@@ -1,0 +1,14 @@
+Instance Name: L_LC203.csv
+Instance Size: 10
+0(0426.9199) 5 3 8 10 1 2 4 6 9 7 11 
+SOL CHECK          = true
+SOL COST           = 1938.40
+BP  Time           = 0000.04 sec.
+SOL NODES          = 1
+SOL ROUTES         = 1
+ROOT LB            = 1938.3993
+FUEL COST          = 0741.4321
+REFRIGERATION COST = 0506.9484
+DECAY COST         = 0690.0188
+
+

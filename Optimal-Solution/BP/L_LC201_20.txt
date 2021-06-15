@@ -1,0 +1,17 @@
+Instance Name: L_LC201.csv
+Instance Size: 20
+0(0568.1317) 6 16 21 
+0(0622.0661) 4 7 17 14 21 
+0(2267.8335) 10 9 20 19 8 18 21 
+0(0139.6018) 5 2 1 12 3 11 15 13 21 
+SOL CHECK          = true
+SOL COST           = 4681.68
+BP  Time           = 0000.00 sec.
+SOL NODES          = 1
+SOL ROUTES         = 4
+ROOT LB            = 4681.6784
+FUEL COST          = 1468.3669
+REFRIGERATION COST = 1824.7196
+DECAY COST         = 1388.5918
+
+

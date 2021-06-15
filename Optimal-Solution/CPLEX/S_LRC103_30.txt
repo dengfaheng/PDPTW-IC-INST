@@ -1,0 +1,6 @@
+Instance Name: S_LRC103.csv
+Instance Size: 30
+CPLEX STS  = Unknown
+CPLEX COST = ∞
+CPLEX Time = 7202.37 sec.
+
