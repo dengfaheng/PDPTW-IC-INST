@@ -2,16 +2,20 @@ Instance Name: S_LRC108.csv
 Instance Size: 30
 0(0015.3156) 1 16 4 19 3 18 31 
 0(0026.5292) 6 21 5 20 2 17 31 
-0(0013.0331) 12 13 15 28 27 30 14 29 31 
 0(0000.0000) 7 9 22 24 8 23 10 11 25 26 31 
+0(0013.0331) 12 13 15 28 27 30 14 29 31 
 SOL CHECK          = true
 SOL COST           = 0818.21
-BP  Time           = 0021.04 sec.
-SOL NODES          = 391
+BP  Time           = 0002.57 sec.
+SOL NODES          = 31
 SOL ROUTES         = 4
-ROOT LB            = 0774.1835
-FUEL COST          = 0539.1120
-REFRIGERATION COST = 0215.7051
-DECAY COST         = 0063.3908
+ROOT LB            = 0766.5976
+TC                 = 0539.1120
+RC                 = 0215.7051
+DC                 = 0063.3908
+FLabel             = 12087
+FDom               = 7612
+BLabel             = 7847
+BDom               = 3716
 
 

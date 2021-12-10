@@ -5,12 +5,16 @@ Instance Size: 30
 0(0300.0000) 15 30 6 12 11 4 14 10 13 28 25 27 21 26 29 19 31 
 SOL CHECK          = true
 SOL COST           = 4028.89
-BP  Time           = 0000.67 sec.
+BP  Time           = 0000.69 sec.
 SOL NODES          = 1
 SOL ROUTES         = 3
 ROOT LB            = 4028.8909
-FUEL COST          = 1684.4332
-REFRIGERATION COST = 1733.0780
-DECAY COST         = 0611.3797
+TC                 = 1684.4332
+RC                 = 1733.0780
+DC                 = 0611.3797
+FLabel             = 2116
+FDom               = 1406
+BLabel             = 17689
+BDom               = 13897
 
 

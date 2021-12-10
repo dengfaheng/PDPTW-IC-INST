@@ -8,8 +8,12 @@ BP  Time           = 0000.00 sec.
 SOL NODES          = 1
 SOL ROUTES         = 2
 ROOT LB            = 0986.7069
-FUEL COST          = 0114.2788
-REFRIGERATION COST = 0388.7396
-DECAY COST         = 0483.6884
+TC                 = 0114.2788
+RC                 = 0388.7396
+DC                 = 0483.6884
+FLabel             = 68
+FDom               = 20
+BLabel             = 80
+BDom               = 27
 
 
