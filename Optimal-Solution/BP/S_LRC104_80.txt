@@ -11,8 +11,8 @@ Instance Size: 80
 0(0000.0000) 37 31 77 71 32 72 81 
 SOL CHECK          = true
 SOL COST           = 2073.92
-BP  Time           = 7200.00 sec.
-SOL NODES          = 1363
+BP  Time           = 6851.87 sec.
+SOL NODES          = 1723
 SOL ROUTES         = 9
 ROOT LB            = 2033.0604
 TC                 = 1298.3883
